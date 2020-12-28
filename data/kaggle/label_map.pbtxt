@@ -1,0 +1,44 @@
+item {
+  id: 1
+  name: 'CVC-Normal'
+},
+item {
+  id: 2
+  name: 'CVC-Borderline'
+},
+item {
+  id: 3
+  name: 'CVC-Abnormal'
+},
+item {
+  id: 4
+  name: 'NGT-Normal'
+},
+item {
+  id: 5
+  name: 'NGT-IncompletelyImaged'
+},
+item {
+  id: 6
+  name: 'NGT-Borderline'
+},
+item {
+  id: 7
+  name: 'NGT-Abnormal'
+},
+item {
+  id: 8
+  name: 'ETT-Normal'
+},
+item {
+  id: 9
+  name: 'ETT-Borderline'
+},
+item {
+  id: 10
+  name: 'ETT-Abnormal'
+},
+item {
+  id: 11
+  name: 'SwanGanzCatheterPresent'
+}
